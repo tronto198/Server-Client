@@ -1,0 +1,15 @@
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\bin\Debug\Paper-io_Client.exe.config
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\bin\Debug\Paper-io_Client.exe
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\bin\Debug\Paper-io_Client.pdb
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\bin\Debug\Network.dll
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\bin\Debug\SharedLibaray.dll
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\bin\Debug\Network.pdb
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\bin\Debug\SharedLibaray.pdb
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\obj\Debug\Paper-io_Client.csprojAssemblyReference.cache
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\obj\Debug\Paper_io_Client.Properties.Resources.resources
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\obj\Debug\Paper-io_Client.csproj.GenerateResource.cache
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\obj\Debug\Paper-io_Client.csproj.CoreCompileInputs.cache
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\obj\Debug\Paper-io_Client.csproj.CopyComplete
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\obj\Debug\Paper-io_Client.exe
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\obj\Debug\Paper-io_Client.pdb
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Paper-io_Client\obj\Debug\Paper_io_Client.Paper_io_Client.resources

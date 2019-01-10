@@ -1,0 +1,12 @@
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io_server\Network\bin\Debug\Network.dll
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io_server\Network\bin\Debug\Network.pdb
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io_server\Network\obj\Debug\Network.csprojAssemblyReference.cache
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io_server\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io_server\Network\obj\Debug\Network.dll
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io_server\Network\obj\Debug\Network.pdb
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Network\bin\Debug\Network.dll
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Network\bin\Debug\Network.pdb
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Network\obj\Debug\Network.csproj.CoreCompileInputs.cache
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Network\obj\Debug\Network.dll
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Network\obj\Debug\Network.pdb
+C:\Users\신형준\Desktop\Projects\Visual Studio\p_7 Paper-io - 2여름\Paper-io\Network\obj\Debug\Network.csprojAssemblyReference.cache
